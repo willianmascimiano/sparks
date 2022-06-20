@@ -1,0 +1,8 @@
+/glpi
+/glpi/
+/phpinfo.php
+/glpi.zip
+/backup.zip
+/backup-glpi.zip
+/backupsite.zip
+/bkpglpi.zip
